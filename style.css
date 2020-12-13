@@ -24,7 +24,7 @@ figcaption {
   text-align: center;
   margin:  auto;
 }
-#details div{
+#details {
   float: left;
   background-color: red;
   width: 25%;
